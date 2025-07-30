@@ -17,4 +17,5 @@ add_executable(icpc main.cpp
         template/twoDPrefix.h
         template/monoStackQueue.h
         template/directions.h
-        template/ternarySearch.h)
+        template/ternarySearch.h
+        template/counting.h)
